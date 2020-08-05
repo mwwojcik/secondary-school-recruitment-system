@@ -1,1 +1,0 @@
-# secondary-school-recruitment-system
