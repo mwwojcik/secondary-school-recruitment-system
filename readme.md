@@ -1,9 +1,5 @@
 ## Table of contents
 
-![](img/ars.png)
-
-
-
 ## Domain description
 ![](img/pupils.png)
 
@@ -37,13 +33,16 @@ Workshop participants successively analyze the events and identify their sources
 In this step, hot spots are identified, i.e. places that are undefined and require special attention
 
 #### Phase 2 - Process Modelling
+The goal is to implement future that solve a specific problem. The modeling space is **timeline** . At this stage, workshop participants identify autonomous 
+fragments of the process which are the basis for isolating separate Bounded Context. At this stage, workshop participants identify autonomy fragments of the process, 
+which are the basis for the identification of separate Limited Contexts, and look for the possibility of process optimization.  
 
-### Event Storming Grammar
+Diagrams are detailed, new, more precise elements are introduced. Finally, aggregates are distinguished.
+
 #### The picture that explains everything
 This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
 
 ![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
-
 
 
 ### Secondary School Recruitment System - domain exploration - Big Picture 
