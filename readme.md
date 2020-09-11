@@ -55,20 +55,20 @@ Sam etap Big Picture składa się kilka faz:
 ### Chaotyczna eksploracja
 
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-big-picture-chaotic.jpg" target="_blank
-">nowe okno</a>
+">Pokaż</a>
 ![](img/ES-training-big-picture-chaotic.jpg)
 
 ### Oś czasu
 
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-timeline.jpg" target="_blank
-">nowe okno</a>
-![](img/ES-training-bigpicture-timeline.jpgfile:///home/mw/Pulpit/spotkania-ES/09-09/ES-training-bigpicture-actors.jpg)
+">Pokaż</a>
+![](img/ES-training-bigpicture-timeline.jpg)
 
 ### Identyfiacja aktorów i systemów emitujących zdarzenia
 
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-actors.jpg" target="_blank
-">nowe okno</a>
-![](img/ES-training-bigpicture-timeline.jpgfile:///home/mw/Pulpit/spotkania-ES/09-09/ES-training-bigpicture-actors.jpg)
+">Pokaż/a>
+![](img/ES-training-bigpicture-actors.jpg)
 
 
 ### Opowieść (od początku do końca)
