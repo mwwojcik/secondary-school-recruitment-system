@@ -1,9 +1,37 @@
-## Table of contents
+## Spis treści
 
-## Domain description
+## Intro
+
 ![](img/pupils.png)
 
+Jest to projekt systemu wspomagającego proces rekrutacji uczniów do szkół ponadpodstawowych. Proces jest całkowicie wymyślony i ma niewiele wspólnego
+ z rzeczywistością, umożliwia jednak realizację celu jakim jest doskonalenie praktycznych umiejętności w zakresie
+  eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design. 
+  
+  
+  
+  Naszym przewodnikiem jest pozycja obowiązkowa: [Introducing EventStorming-Alberto Brandolini](https://leanpub.com
+  /introducing_eventstorming). Podczas naszych sesji staramy czerpać z niej całymi garściami...
+  
+  
+   
 
+
+
+## Opis domeny
+
+
+
+## Eskploracja domeny - Big Picture
+
+#### The picture that explains everything
+
+This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
+
+![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+
+
+<!--
 ## Domain exploration
 ### EventStorming - general assumptions
 
@@ -23,8 +51,7 @@ Workshop participants search for events that are important in their process.   A
 At this stage, the events are arranged in chronological order. 
 
 ##### Stage 3 - reversing the narrative
-In this step the consistency check is performed. Participants analyze events from the end to the beginning and reflect on what must happen before the event
- will happen.
+In this step the consistency check is performed. Participants analyze events from the end to the beginning and reflect on what must happen before .
 
 ##### Stage 4 - identyfing actors
 Workshop participants successively analyze the events and identify their sources. The event source can be an actor or other system. 
@@ -38,13 +65,9 @@ fragments of the process which are the basis for isolating separate Bounded Cont
 which are the basis for the identification of separate Limited Contexts, and look for the possibility of process optimization.  
 
 Diagrams are detailed, new, more precise elements are introduced. Finally, aggregates are distinguished.
+-->
 
-#### The picture that explains everything
-This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
-
-![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
-
-
+<!--
 ### Secondary School Recruitment System - domain exploration - Big Picture 
 
 #### Events
@@ -62,3 +85,4 @@ This nice picture comes from [Introducing EventStorming-Alberto Brandolini](http
 </a>
 
 ![](img/recruiment-big-picture-events-timeline.png)
+-->
