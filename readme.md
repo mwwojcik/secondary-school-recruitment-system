@@ -4,19 +4,24 @@
 
 ![](img/pupils.png)
 
-Jest to projekt systemu wspomagającego proces rekrutacji uczniów do szkół ponadpodstawowych. Proces jest całkowicie wymyślony i ma niewiele wspólnego
+Jest to projekt systemu wspomagającego rekrutację uczniów do szkół ponadpodstawowych. Proces jest całkowicie wymyślony i ma niewiele wspólnego
  z rzeczywistością, umożliwia jednak realizację celu jakim jest doskonalenie praktycznych umiejętności w zakresie
-  eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design. 
+  eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design ( a przy okazji dostarczył całkiem fajnej zabawy) ...
   
-  
-  
-  Naszym przewodnikiem jest pozycja obowiązkowa: [Introducing EventStorming-Alberto Brandolini](https://leanpub.com
-  /introducing_eventstorming). Podczas naszych sesji staramy czerpać z niej całymi garściami...
-  
-  
-   
+Nasz  miniprojekt realizowaliśmy w kilkuosobowym zespole:
+
+* Ruslan Pidhainyi - todo link
+* Tomek Przybylski - todo link
+* Mariusz Olbryś - todo link
+* Gabriel Kurzac - todo link
+* Mariusz Wójcik - todo link
 
 
+Spotykaliśmy się na cotygodniowych, dwugodzinnych sesjach online na których realizowaliśmy kolejne etapy eksploracji dziedziny przy użyciu techniki
+ Event Stormingu . Opieraliśmy się na lekturze obowiązkowej, a zarazem powszechnie znanej: [Introducing EventStorming-Alberto Brandolini](https://leanpub.com
+ /introducing_eventstorming). Podczas naszych sesji staraliśmy się  czerpać z niej całymi garściami...
+  
+  
 
 ## Opis domeny
 
