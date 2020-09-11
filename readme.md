@@ -22,20 +22,45 @@ Spotykaliśmy się na cotygodniowych, dwugodzinnych sesjach online na których r
  
  Naszym przewodnikiem była pozycja absolutnie zasadnicza:
  [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming). 
- Podczas naszych sesji staraliśmy się czerpać z niej całymi garściami...
+ Podczas sesji staraliśmy się czerpać z niej całymi garściami...
  
  Wykorzystaliśmy narzędzia umożliwiające nam pracę zdalną: 
  
  * Google Meeting
  * [miro.com](http://www.miro.com)
+
    
-## Eskploracja domeny - Big Picture
+## ETAP I - Eskploracja domeny - Big Picture
 
-#### The picture that explains everything
+Rozpoznawanie dziedziny rozpoczyna się od wypracowania sobie jej ogólnego, aktualnego obrazu. Służy temu pierwsza faza eksloracji zwana **Big Picture**.  
+Jej celem jest zobrazowanie aktualnego przebiegu procesu biznesowego oraz identyfikacja ryzyk, niedogodności i problemów które w nim występują.   
 
-This nice picture comes from [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
+### Notacja
+
+Obrazek wyjaśniający wszystko pochodzi z  [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
 
 ![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+
+Na etapie Big Picture używa się kilku symboli - najważniejsza jest pomarańczowa karteczka symbolizująca Zdarzenie - coś ważnego co zaszło  w procesie.
+
+Na etap Big Picture składa się kilka faz. 
+
+### Chaotyczna eksploracja
+
+<a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-big-picture-chaotic.jpg" target="_blank
+">Pokaż w całości</a>
+![](img/ES-training-big-picture-chaotic.jpg)
+
+### Ułożenie zdarzeń na osi czasu
+
+
+### Identyfiacja aktorów i systemów emitujących zdarzenia
+
+### Opowieść (od początku do końca)
+
+### Retrospektywa (analiza od końca do początku)
+
+### Identyfikacja ryzyk 
 
 
 <!--
