@@ -6,9 +6,9 @@
 
 Jest to projekt systemu wspomagającego rekrutację uczniów do szkół ponadpodstawowych. Proces jest całkowicie wymyślony i ma niewiele wspólnego
  z rzeczywistością, umożliwia jednak realizację celu jakim jest doskonalenie praktycznych umiejętności w zakresie
-  eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design ( a przy okazji dostarczył całkiem fajnej zabawy) ...
+  eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design.
   
-Nasz  miniprojekt realizowaliśmy w kilkuosobowym zespole:
+Nasz  miniprojekt samorozwojowy realizowaliśmy w kilkuosobowym zespole:
 
 * Ruslan Pidhainyi - todo link
 * Tomek Przybylski - todo link
@@ -18,15 +18,17 @@ Nasz  miniprojekt realizowaliśmy w kilkuosobowym zespole:
 
 
 Spotykaliśmy się na cotygodniowych, dwugodzinnych sesjach online na których realizowaliśmy kolejne etapy eksploracji dziedziny przy użyciu techniki
- Event Stormingu . Opieraliśmy się na lekturze obowiązkowej, a zarazem powszechnie znanej: [Introducing EventStorming-Alberto Brandolini](https://leanpub.com
- /introducing_eventstorming). Podczas naszych sesji staraliśmy się  czerpać z niej całymi garściami...
-  
-  
-
-## Opis domeny
-
-
-
+ Event Stormingu . 
+ 
+ Naszym przewodnikiem była pozycja absolutnie zasadnicza:
+ [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming). 
+ Podczas naszych sesji staraliśmy się czerpać z niej całymi garściami...
+ 
+ Wykorzystaliśmy narzędzia umożliwiające nam pracę zdalną: 
+ 
+ * Google Meeting
+ * [miro.com](http://www.miro.com)
+   
 ## Eskploracja domeny - Big Picture
 
 #### The picture that explains everything
