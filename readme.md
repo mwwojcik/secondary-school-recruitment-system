@@ -35,15 +35,8 @@ Spotykaliśmy się na cotygodniowych, dwugodzinnych sesjach online na których r
 Rozpoznawanie dziedziny rozpoczyna się od wypracowania sobie jej ogólnego, aktualnego obrazu. Służy temu pierwsza faza eksloracji zwana **Big Picture**.  
 Jej celem jest zobrazowanie aktualnego przebiegu procesu biznesowego oraz identyfikacja ryzyk, niedogodności i problemów które w nim występują.   
 
-### Notacja
+Składa się na nią kilka faz:
 
-Obrazek wyjaśniający zakres używanych symboli pochodzi z [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
-
-![Introducing EventStorming-Alberto Brandolini](img/event-storming-symbols.png) 
-
-Na etapie Big Picture używa się kilku symboli - najważniejsza jest pomarańczowa karteczka symbolizująca Zdarzenie - coś ważnego co zaszło  w procesie.
-
-Sam etap Big Picture składa się kilka faz:
 * Chaotyczna eksploracja
 * Oś czasu
 * Identyfiacja aktorów i systemów emitujących zdarzenia
@@ -52,22 +45,44 @@ Sam etap Big Picture składa się kilka faz:
 * Identyfikacja ryzyk
 
 
+### Notacja
+
+![Introducing EventStorming-Alberto Brandolini](img/event-storming-symbols.png) 
+
+*źródło: [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming)*
+
+Na etapie Big Picture najważniejsza jest pomarańczowa karteczka symbolizująca Zdarzenie - coś ważnego co zaszło  w procesie.
+
 ### Chaotyczna eksploracja
-//todo opis (cel i obrazek)
+Na tym etapie każdy z uczestników warsztatu umieszczał zdarzenia które wydawały mu się zasadne. Był to proces bardzo chaotyczny, zdarzenia się dublowały, 
+powstawały bez konsultacji z innymi uczestnikami. 
+ 
+
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-big-picture-chaotic.jpg" target="_blank
 ">Pokaż</a>
+
 ![](img/ES-training-big-picture-chaotic.jpg)
 
 ### Oś czasu
-//todo opis (cel i obrazek)
+
+Na tym etapie następuje porządkowanie zdarzeń - nadanie im chronologii. Czasami jest to bardzo trudne, wtedy dopuszczone są techniki wspomagające, jedną z nich
+jest użycie *Pivotal Events*. Są to zdarzenia, które wydają się kluczowe. Inne zdarzenia są porządkowane względem nich, po zadaniu pytania czy to zdarzenie
+ stało się wcześniej , czy później względem najbliszego PE.
+ 
+ Wynik :
+
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-timeline.jpg" target="_blank
 ">Pokaż</a>
+
 ![](img/ES-training-bigpicture-timeline.jpg)
 
 ### Identyfiacja aktorów i systemów emitujących zdarzenia
 
+Na tym etapie następuje próba identyfikacji osób i systemów biorących udział w procesie. 
+
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-actors.jpg" target="_blank
 ">Pokaż</a>
+
 //todo opis (cel i obrazek)
 ![](img/ES-training-bigpicture-actors.jpg)
 
