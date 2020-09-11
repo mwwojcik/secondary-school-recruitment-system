@@ -53,13 +53,13 @@ Sam etap Big Picture składa się kilka faz:
 
 
 ### Chaotyczna eksploracja
-
+//todo opis (cel i obrazek)
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-big-picture-chaotic.jpg" target="_blank
 ">Pokaż</a>
 ![](img/ES-training-big-picture-chaotic.jpg)
 
 ### Oś czasu
-
+//todo opis (cel i obrazek)
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-timeline.jpg" target="_blank
 ">Pokaż</a>
 ![](img/ES-training-bigpicture-timeline.jpg)
@@ -67,7 +67,8 @@ Sam etap Big Picture składa się kilka faz:
 ### Identyfiacja aktorów i systemów emitujących zdarzenia
 
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-actors.jpg" target="_blank
-">Pokaż/a>
+">Pokaż</a>
+//todo opis (cel i obrazek)
 ![](img/ES-training-bigpicture-actors.jpg)
 
 
