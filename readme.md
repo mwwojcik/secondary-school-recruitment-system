@@ -39,7 +39,7 @@ Jej celem jest zobrazowanie aktualnego przebiegu procesu biznesowego oraz identy
 
 Obrazek wyjaśniający wszystko pochodzi z  [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming).
 
-![Introducing EventStorming-Alberto Brandolini](img/process-modeling-events.png) 
+![Introducing EventStorming-Alberto Brandolini](img/event-storming-symbols.png) 
 
 Na etapie Big Picture używa się kilku symboli - najważniejsza jest pomarańczowa karteczka symbolizująca Zdarzenie - coś ważnego co zaszło  w procesie.
 
