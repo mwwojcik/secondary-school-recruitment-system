@@ -8,7 +8,7 @@ Jest to projekt systemu wspomagającego rekrutację uczniów do szkół ponadpod
  z rzeczywistością, umożliwia jednak realizację celu jakim jest doskonalenie praktycznych umiejętności w zakresie
   eksploracji dziedziny przy użyciu technik zaczerpniętych z Domain Driven Design.
   
-Nasz  miniprojekt samorozwojowy realizowaliśmy w kilkuosobowym zespole:
+Projekt realizowany jest w kilkuosobowym zespole:
 
 * Ruslan Pidhainyi - todo link
 * Tomek Przybylski - todo link
@@ -16,15 +16,8 @@ Nasz  miniprojekt samorozwojowy realizowaliśmy w kilkuosobowym zespole:
 * Gabriel Kurzac - todo link
 * Mariusz Wójcik - todo link
 
-
-Spotykaliśmy się na cotygodniowych, dwugodzinnych sesjach online na których realizowaliśmy kolejne etapy eksploracji dziedziny przy użyciu techniki
- Event Stormingu . 
  
- Naszym przewodnikiem była pozycja absolutnie zasadnicza:
- [Introducing EventStorming-Alberto Brandolini](https://leanpub.com/introducing_eventstorming). 
- Podczas sesji staraliśmy się czerpać z niej całymi garściami...
- 
- Wykorzystaliśmy narzędzia umożliwiające nam pracę zdalną: 
+ Spotkania odbywają się w trybie zdalnym przy wykorzystaniu narzędzi: 
  
  * Google Meeting
  * [miro.com](http://www.miro.com)
@@ -83,7 +76,6 @@ Na tym etapie następuje próba identyfikacji osób i systemów biorących udzia
 <a href="https://raw.githubusercontent.com/mwwojcik/secondary-school-recruitment-system/master/img/ES-training-bigpicture-actors.jpg" target="_blank
 ">Pokaż</a>
 
-//todo opis (cel i obrazek)
 ![](img/ES-training-bigpicture-actors.jpg)
 
 
