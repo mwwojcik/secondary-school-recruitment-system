@@ -100,19 +100,12 @@ Na tym etapie następuje próba identyfikacji osób i systemów biorących udzia
 
 ### Opowieść (od początku do końca) i retrospektywa (analiza od końca do początku)
 
-Celem kolejnego kroku jest dalsze uspójnienie dosyć dobrze już zarysowanego procesu. 
-
-Służy temu analiza kolejnych zdarzeń , a środkiem wyrazu jest opowieść snuta najpierw od początku do końca, a następnie od końca do początku. 
-
+Celem kolejnego kroku jest dalsze uspójnienie dosyć dobrze już zarysowanego procesu. Służy temu analiza kolejnych zdarzeń , a środkiem wyrazu jest opowieść snuta najpierw od początku do końca, a następnie od końca do początku. 
 W wyniku tych opowieści ujawniają się miejsca niespójne, w których jedno zdarzenie nie wynika z drugigo. Jest to znak że należy dokładniej przyjrzeć się temu 
-
 fragmentowi procesu. Może okazać się że coś nieprawidłowo zostało osadzone w czasie, albo że czegoś brakuje.
 
 Narracja od początku do końca pokazuje że coś co wydawało się już spójne w wielu miejscach wymaga doprecyzowania. 
-
-Jeszcze ciekawsze efekty przynosi narracja odwrotna. Tutaj przy każdym głośno wypowiedzianym zdarzeniu należy zastanowić się czy jest ono bezpośrednim 
-
-następstwem poprzedniego. 
+Jeszcze ciekawsze efekty przynosi narracja odwrotna. Tutaj przy każdym głośno wypowiedzianym zdarzeniu należy zastanowić się czy jest ono bezpośrednim następstwem poprzedniego. 
 
 Bardzo ważnym elementem towarzyszącym jest powszechna dyskusja.   
 
