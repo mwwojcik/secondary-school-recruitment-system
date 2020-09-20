@@ -58,9 +58,28 @@ powstawały bez konsultacji z innymi uczestnikami.
 
 ### Oś czasu
 
-Na tym etapie następuje porządkowanie zdarzeń - nadanie im chronologii. Czasami jest to bardzo trudne, wtedy dopuszczone są techniki wspomagające, jedną z nich
-jest użycie *Pivotal Events*. Są to zdarzenia, które wydają się kluczowe. Inne zdarzenia są porządkowane względem nich, po zadaniu pytania czy to zdarzenie
- stało się wcześniej , czy później względem najbliszego PE.
+Na tym etapie następuje porządkowanie zdarzeń - nadanie im chronologii. Czasami jest to bardzo trudne, wtedy dopuszczone są techniki wspomagające (strategie
+ sortowania) . 
+ 
+ Wśród nich wyróżnić można:
+ 
+ * Pivotal events ( zdarzenia kluczowe - Pivotal Events) - technika ta polega na wyróżnieniu kilku zdarzeń, które wydają się najważniejsze. Inne zdarzenia s
+ ą porządkowane względem nich, po zadaniu pytania czy to zdarzenie stało się wcześniej , czy później względem najbliszego PE.
+ 
+ * Swimlanes - na tablicy wprowadza się linie poziome tworzące osobne obszary reprezentująca poszczególne działy i jednostki organizacjyjne biorące udział w procesie.
+ Zdarzenia układane są chronologicznie, ale przyporządkowywane do odpowiedniej partycji.  
+ 
+ * Milestones - strategia ta polega na określeniu na tablicy określonych punktów w czasie np. (1 rok wcześniej, 3mce wcześniej, itd.) - zdarzenia układa si
+ ę umiejscawiając je w "przypuszczlnej" ramce.
+ 
+ * Chapters - technika ta polega na wykorzystaniu opowiadanej historii. Dzieli się ją na rozdziały i w ich ramach porządkowane są zdarzenia.
+ 
+ * Strategia mieszana - zgodnie z ideą ES nic nie jest stałe i strategie można dowolnie ze sobą mieszać.
+ 
+ W przypadku systemu rekrutacji zastosowana została technika Pivotal Events. Każde ze zdarzeń kluczowych wyróżnione zostało pionową kreską ułatwiająca
+  
+  umiejscawianie zdarzeń poprzedzających lub następnych.
+ 
  
  Wynik :
 
